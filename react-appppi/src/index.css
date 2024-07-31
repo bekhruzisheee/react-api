@@ -1,0 +1,21 @@
+:root{
+    --nav-color:rgb(17, 6, 172);
+    --i-color:black;
+    --con-color:#fff;
+    --tog-color:green;
+    --label-color:red;
+    --let-color:black;
+    --toggle-bg: #f0eb9d;
+    --toggle-fg: #ffd000;
+  }
+  
+  [data-theme="dark"]{
+    --nav-color:rgb(1, 1, 1);
+    --i-color:rgb(255, 255, 255);
+    --con-color:#090909;
+    --tog-color:rgb(0, 0, 0);
+    --label-color:rgb(233, 16, 16);
+    --let-color:rgb(255, 255, 255);
+    --toggle-bg: #283452;
+    --toggle-fg: #00a6ff;
+  }
